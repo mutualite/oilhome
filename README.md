@@ -19,7 +19,7 @@
 
     #yellowStrip {
       background-color:#FFD700;
-      padding: 100px;
+      padding: 9000px;
       text-align: center;
       max-width: 100%;
       opacity: 1; /* Adjust the opacity as needed */
@@ -27,7 +27,7 @@
 
     #textOnStrip {
       color: white; /* Change text color as needed */
-      font-size: 200px;
+      font-size: 1000px;
       font-weight: bold;
       text-align: left;
     }
