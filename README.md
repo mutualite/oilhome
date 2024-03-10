@@ -19,16 +19,17 @@
 
     #yellowStrip {
       background-color:#FFD700;
-      padding: 20px;
+      padding: 100px;
       text-align: center;
-      max-width: 80%;
+      max-width: 100%;
       opacity: 1; /* Adjust the opacity as needed */
     }
 
     #textOnStrip {
       color: white; /* Change text color as needed */
-      font-size: 24px;
+      font-size: 200px;
       font-weight: bold;
+      text-align: left;
     }
   </style>
 </head>
