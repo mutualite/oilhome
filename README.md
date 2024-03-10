@@ -10,7 +10,7 @@
       margin: 0;
       padding: 0;
       font-family: Arial, sans-serif;
-      background: url('your-image.jpg') center/cover no-repeat; /* Replace 'your-image.jpg' with the path to your background image */
+      background: url('https://github.com/mutualite/oilhome/blob/main/Gemini_Generated_Image.jpg') center/cover no-repeat; /* Replace 'your-image.jpg' with the path to your background image */
       height: 100vh;
       display: flex;
       align-items: center;
@@ -18,15 +18,15 @@
     }
 
     #yellowStrip {
-      background-color: yellow;
+      background-color:#FFD700;
       padding: 20px;
       text-align: center;
       max-width: 80%;
-      opacity: 0.8; /* Adjust the opacity as needed */
+      opacity: 1; /* Adjust the opacity as needed */
     }
 
     #textOnStrip {
-      color: black; /* Change text color as needed */
+      color: white; /* Change text color as needed */
       font-size: 24px;
       font-weight: bold;
     }
@@ -34,7 +34,7 @@
 </head>
 <body>
   <div id="yellowStrip">
-    <p id="textOnStrip">Your Text Here</p>
+    <p id="textOnStrip">How well do you know your oil ?</p>
   </div>
 </body>
 </html>
